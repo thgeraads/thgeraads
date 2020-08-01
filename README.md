@@ -22,11 +22,11 @@ Welcome to my GitHub profile.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
-2. 🗣 Commented on [#37](https://github.com//sandoche/Darkmode.js/issues/37) in [sandoche/Darkmode.js](https://github.com//sandoche/Darkmode.js)
-3. 💪 Opened PR [#109](https://github.com//CCDirectLink/CCModDB/pull/109) in [CCDirectLink/CCModDB](https://github.com//CCDirectLink/CCModDB)
-4. 💪 Opened PR [#1](https://github.com//lexisother/MonBot/pull/1) in [lexisother/MonBot](https://github.com//lexisother/MonBot)
-5. 🎉 Merged PR [#1](https://github.com//keanuplayz/Weather-PWA/pull/1) in [keanuplayz/Weather-PWA](https://github.com//keanuplayz/Weather-PWA)
+1. 🎉 Merged PR [#1](https://github.com//theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
+2. 🗣 Commented on [#1](https://github.com//theikegeraads/theikegeraads/issues/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
