@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on [harOS](https://github.com/theikegeraads/harOS).
+- 🔭 I’m currently working on [harOS](https://github.com/thgeraads/harOS).
 - 📫 How to reach me: 
   - [@Zeehondie_](https://twitter.com/@Zeehondie_) on Twitter.
   - Zeehondie#1109 on Discord.
@@ -22,17 +22,17 @@ Welcome to my GitHub profile.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
-2. 🗣 Commented on [#1](https://github.com//theikegeraads/theikegeraads/issues/1) in [theikegeraads/theikegeraads](https://github.com//theikegeraads/theikegeraads)
+1. undefined
+2. undefined
 3. undefined
 4. undefined
 5. undefined
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
-<a href="https://github.com/theikegeraads/theikegeraads">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theikegeraads&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/thgeraads/thgeraads">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgeraads&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/theikegeraads/theikegeraads">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theikegeraads&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Theike's GitHub Stats" />
+<a href="https://github.com/thgeraads/thgeraads">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thgeraads&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
