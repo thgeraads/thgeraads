@@ -22,8 +22,8 @@ Welcome to my GitHub profile.
 
 ## 🔔 My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//thgeraads/thgeraads/pull/1) in [thgeraads/theikegeraads](https://github.com//thgeraads/thgeraads)
-2. 🗣 Commented on [#1](https://github.com//thgeraads/thgeraads/issues/1) in [theikegeraads/theikegeraads](https://github.com//thgeraads/thgeraads)
+1. 🎉 Merged PR [#1](https://github.com//thgeraads/thgeraads/pull/1) in [thgeraads/thgeraads](https://github.com//thgeraads/thgeraads)
+2. 🗣 Commented on [#1](https://github.com//thgeraads/thgeraads/issues/1) in [thgeraads/thgeraads](https://github.com//thgeraads/thgeraads)
 3. undefined
 4. undefined
 5. undefined
