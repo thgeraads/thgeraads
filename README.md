@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 - 🔭 I’m currently working on [harOS](https://github.com/thgeraads/harOS).
 - 📫 How to reach me: 
   - [@Zeehondie_](https://twitter.com/@Zeehondie_) on Twitter.
-  - Zeehondie#1109 on Discord.
+  - Zeehondie#1053 on Discord.
 - ⚡ Fun fact: Did you know that every 60 seconds, a minute passes?
 
 <p align="center"> 
