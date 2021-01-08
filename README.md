@@ -24,9 +24,9 @@ Welcome to my GitHub profile.
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com/theikegeraads/theikegeraads)
 2. 🗣 Commented on [#1](https://github.com/theikegeraads/theikegeraads/issues/1) in [theikegeraads/theikegeraads](https://github.com/theikegeraads/theikegeraads)
-3. undefined
-4. undefined
-5. undefined
+3. 
+4. 
+5. 
 <!--END_SECTION:activity-->
 
 ## GitHub Stats Cards
