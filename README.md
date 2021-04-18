@@ -19,15 +19,14 @@ Welcome to my GitHub profile.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<!---
 ## 🔔 My Recent GitHub Activity
-<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/theikegeraads/theikegeraads/pull/1) in [theikegeraads/theikegeraads](https://github.com/theikegeraads/theikegeraads)
 2. 🗣 Commented on [#1](https://github.com/theikegeraads/theikegeraads/issues/1) in [theikegeraads/theikegeraads](https://github.com/theikegeraads/theikegeraads)
 3. 
 4. 
 5. 
-<!--END_SECTION:activity-->
+-->
 
 ## GitHub Stats Cards
 <a href="https://github.com/thgeraads/thgeraads">
