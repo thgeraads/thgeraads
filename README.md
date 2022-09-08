@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on [HarMod](https://github.com/keanuplayz/HarMod).
+- 🔭 I’m currently working on absolutely nothing
 - 📫 How to reach me: 
   - [@Zeehondie_](https://twitter.com/@Zeehondie_) on Twitter.
   - Zeehondie#1053 on Discord.
